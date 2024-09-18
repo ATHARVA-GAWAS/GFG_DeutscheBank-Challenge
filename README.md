@@ -5,5 +5,7 @@ This repository documents my participation in the #geekstreak2024 challenge, pow
 
 Challenge Timeline
   Start Date: 10th September 2024
+  
   End Date: 2nd October 2024
+  
   Goal: Solve one POTD every day for 21 consecutive days.
