@@ -16,27 +16,26 @@ Challenge Timeline
 
 Here are the solutions I have completed so far:
 
-| Day   | Problem Title  | Solution Link  | Social Media Post  |
-|-------|----------------|----------------|--------------------|
-| Day 1 | [Circle of strings]([https://www.geeksforgeeks.org/problem-of-the-day](https://www.geeksforgeeks.org/problems/circle-of-strings4530/1)) | [Solution]([./Day01/solution.cpp](https://github.com/ATHARVA-GAWAS/GFG_DeutscheBank-Challenge/blob/main/Day01/solution.cpp)) | [Post Link](https://twitter.com/...) |
-| Day 2 | [[Minimum cost of ropes](https://github.com/ATHARVA-GAWAS/GFG_DeutscheBank-Challenge/blob/main/Day01/solution.cpp)]([https://www.geeksforgeeks.org/problem-of-the-day](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1)) | [Solution]([./Day02/solution.cpp](https://github.com/ATHARVA-GAWAS/GFG_DeutscheBank-Challenge/blob/main/Day02/solution.cpp)) | [Post Link](https://twitter.com/...) |
-| Day 3 | [Middle of a Linked List]([https://www.geeksforgeeks.org/problem-of-the-day](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1)) | [Solution]([./Day03/solution.cpp](https://github.com/ATHARVA-GAWAS/GFG_DeutscheBank-Challenge/blob/main/Day03/solution.cpp)) | [Post Link](https://twitter.com/...) |
-| Day 4 | [Mirror Tree]([https://www.geeksforgeeks.org/problem-of-the-day](https://www.geeksforgeeks.org/problems/mirror-tree/1)) | [Solution]([./Day04/solution.cpp](https://github.com/ATHARVA-GAWAS/GFG_DeutscheBank-Challenge/blob/main/Day04/solution.cpp)) | [Post Link](https://twitter.com/...) |
-| Day 5 | [Alternate positive and negative numbers
-]([https://www.geeksforgeeks.org/problem-of-the-day](https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1)) | [Solution]([./Day05/solution.cpp](https://github.com/ATHARVA-GAWAS/GFG_DeutscheBank-Challenge/blob/main/Day05/solution.cpp)) | [Post Link](https://twitter.com/...) |
-| Day 6 | [Binary Tree to DLL]([https://www.geeksforgeeks.org/problem-of-the-day](https://www.geeksforgeeks.org/problems/binary-tree-to-dll/1)) | [Solution]([./Day06/solution.cpp](https://github.com/ATHARVA-GAWAS/GFG_DeutscheBank-Challenge/blob/main/Day06/solution.cpp)) | [Post Link](https://twitter.com/...) |
-| Day 7 | [Longest valid Parentheses]([https://www.geeksforgeeks.org/problem-of-the-day](https://www.geeksforgeeks.org/problems/longest-valid-parentheses5657/1)) | [Solution]([./Day07/solution.cpp](https://github.com/ATHARVA-GAWAS/GFG_DeutscheBank-Challenge/blob/main/Day07/solution.cpp)) | [Post Link](https://twitter.com/...) |
-| Day 8 | [Minimize the Heights II]([https://www.geeksforgeeks.org/problem-of-the-day](https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1)) | [Solution]([./Day08/solution.cpp](https://github.com/ATHARVA-GAWAS/GFG_DeutscheBank-Challenge/blob/main/Day08/solution.cpp)) | [Post Link](https://twitter.com/...) |
-| Day 9 | [Parenthesis Checker]([https://www.geeksforgeeks.org/problem-of-the-day](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1)) | [Solution]([./Day09/solution.cpp](https://github.com/ATHARVA-GAWAS/GFG_DeutscheBank-Challenge/blob/main/Day09/solution.cpp)) | [Post Link](https://twitter.com/...) |
-| Day 10| [Problem Title](https://www.geeksforgeeks.org/problem-of-the-day) | [Solution](./Day10/solution.cpp) | [Post Link](https://twitter.com/...) |
-| Day 11| [Problem Title](https://www.geeksforgeeks.org/problem-of-the-day) | [Solution](./Day11/solution.cpp) | [Post Link](https://twitter.com/...) |
-| Day 12| [Problem Title](https://www.geeksforgeeks.org/problem-of-the-day) | [Solution](./Day12/solution.cpp) | [Post Link](https://twitter.com/...) |
-| Day 13| [Problem Title](https://www.geeksforgeeks.org/problem-of-the-day) | [Solution](./Day13/solution.cpp) | [Post Link](https://twitter.com/...) |
-| Day 14| [Problem Title](https://www.geeksforgeeks.org/problem-of-the-day) | [Solution](./Day14/solution.cpp) | [Post Link](https://twitter.com/...) |
-| Day 15| [Problem Title](https://www.geeksforgeeks.org/problem-of-the-day) | [Solution](./Day15/solution.cpp) | [Post Link](https://twitter.com/...) |
-| Day 16| [Problem Title](https://www.geeksforgeeks.org/problem-of-the-day) | [Solution](./Day16/solution.cpp) | [Post Link](https://twitter.com/...) |
-| Day 17| [Problem Title](https://www.geeksforgeeks.org/problem-of-the-day) | [Solution](./Day17/solution.cpp) | [Post Link](https://twitter.com/...) |
-| Day 18| [Problem Title](https://www.geeksforgeeks.org/problem-of-the-day) | [Solution](./Day18/solution.cpp) | [Post Link](https://twitter.com/...) |
-| Day 19| [Problem Title](https://www.geeksforgeeks.org/problem-of-the-day) | [Solution](./Day19/solution.cpp) | [Post Link](https://twitter.com/...) |
-| Day 20| [Problem Title](https://www.geeksforgeeks.org/problem-of-the-day) | [Solution](./Day20/solution.cpp) | [Post Link](https://twitter.com/...) |
-| Day 21| [Problem Title](https://www.geeksforgeeks.org/problem-of-the-day) | [Solution](./Day21/solution.cpp) | [Post Link](https://twitter.com/...) |
+| Day | Problem Title                                                                                  | Social Media Link                                                                                   |
+|-----|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| 1   | Circle of Strings                                                                              | [Link 1](https://x.com/Atharva___Gawas/status/1833509672340574715)                               |
+| 2   | Minimum Cost of Ropes                                                                          | [Link 2](https://x.com/Atharva___Gawas/status/1833796919040122993)                               |
+| 3   | Finding Middle Element in a Linked List                                                       | [Link 3](https://x.com/Atharva___Gawas/status/1834097377793175565)                               |
+| 4   | Mirror Tree                                                                                    | [Link 4](https://x.com/Atharva___Gawas/status/1834468611576004906)                               |
+| 5   | Array of Alternate Positive and Negative Numbers                                               | [Link 5](https://x.com/Atharva___Gawas/status/1834832496371908716)                               |
+| 6   | Binary Tree to DLL                                                                              | [Link 6](https://x.com/Atharva___Gawas/status/1835158342802567375)                               |
+| 7   | Longest Valid Parentheses                                                                        | [Link 7](https://x.com/Atharva___Gawas/status/1835517151362363435)                               |
+| 8   | Minimize the Heights                                                                           | [Link 8](https://x.com/Atharva___Gawas/status/1835950315419373718)                               |
+| 9   | Parenthesis Checker                                                                            | [Link 9](https://x.com/Atharva___Gawas/status/1836221937976000833)                               |
+| 10  | Reverse Words in a Given String                                                                | [Link 10](https://x.com/Atharva___Gawas/status/1836722391650558334)                              |
+| 11  | Facing the Sun                                                                                 | [Link 11](https://x.com/Atharva___Gawas/status/1836966171574231200)                              |
+| 12  | Clone a Linked List with Next and Random Pointer                                               | [Link 12](https://x.com/Atharva___Gawas/status/1837431731978125780)                              |
+| 13  | Longest Prefix Suffix                                                                          | [Link 13](https://x.com/Atharva___Gawas/status/1837680769583468827)                              |
+| 14  | Find Missing and Repeating                                                                     | [Link 14](https://x.com/Atharva___Gawas/status/1838143388639510724)                              |
+| 15  | Smallest Window in a String Containing All Characters of Another String                       | [Link 15](https://x.com/Atharva___Gawas/status/1838426838802071652)                              |
+| 16  | Check if Linked List is Palindrome                                                             | [Link 16](https://x.com/Atharva___Gawas/status/1838915259093958752)                              |
+| 17  | Roof Top                                                                                       | [Link 17](https://x.com/Atharva___Gawas/status/1839173350565785968)                              |
+| 18  | Maximum of All Subarrays of Size K                                                             | [Link 18](https://x.com/Atharva___Gawas/status/1839585515059696084)                              |
+| 19  | Minimal Cost                                                                                  | [Link 19](https://x.com/Atharva___Gawas/status/1839913955243745786)                              |
+| 20  | Total Count                                                                                    | [Link 20](https://x.com/Atharva___Gawas/status/1840234777502220647)                              |
+
