@@ -38,4 +38,4 @@ Here are the solutions I have completed so far:
 | 18  | Maximum of All Subarrays of Size K                                                             | [Link 18](https://x.com/Atharva___Gawas/status/1839585515059696084)                              |
 | 19  | Minimal Cost                                                                                  | [Link 19](https://x.com/Atharva___Gawas/status/1839913955243745786)                              |
 | 20  | Total Count                                                                                    | [Link 20](https://x.com/Atharva___Gawas/status/1840234777502220647)                              |
-
+| 21  | Merge Two BSTs                                                                                    | [Link 21](https://x.com/Atharva___Gawas/status/1840736055021941234) 
